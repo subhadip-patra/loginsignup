@@ -2,7 +2,7 @@
 const mongoose = require("mongoose");
 
 mongoose
-  .connect("mongodb+srv://admin:root@cluster0.0qiansv.mongodb.net/", {
+  .connect("mongodb+srv://admin:root@cluster0.0qiansv.mongodb.net/test", {
     // useNewUrlParser: true,
     // useUnifiedTopology: true,
     // useCreateIndex: true,
